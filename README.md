@@ -1,11 +1,19 @@
 # Saweria Notif Roblox
 
-Realtime donation notification system
+Realtime Saweria donation notification system for Roblox  
+with **auto UI + AI-like TTS sound**.
 
-## Endpoints
+---
 
-Donation Data:
-https://raw.githubusercontent.com/linzee000-oss/saweria-notif/main/data/donations.json
+## 🔥 Features
+- Donation data directly from Saweria
+- Cloudflare Worker webhook
+- Roblox HTTP polling (stable)
+- Auto-generated in-game UI
+- AI TTS style sound (Saweria-like)
+- Queue system (no overlap)
 
-Status:
-https://raw.githubusercontent.com/linzee000-oss/saweria-notif/main/status/last.json
+---
+
+## 🧠 Architecture
+
